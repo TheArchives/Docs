@@ -1,1 +1,6 @@
 site_name: Staff Documentation
+pages:
+    - [index.md, "Home"]
+    - [cmp.md, "CMP"]
+    - [irc.md, "IRC"]
+    - [smp.md, "SMP"]
