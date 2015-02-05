@@ -25,7 +25,7 @@ wrong for the majority of cases.
       this will happen naturally if you spend time around them.
 * Sometimes, although not frequently, there are very tough decisions to make.
   Sometimes it's a tough call on a ban, sometimes it's an idea that somoene
-  suggested that you feel is inappropriate, or something it's just down to
+  suggested that you feel is inappropriate, or sometimes it's just down to
   plain human nature.
     * You will experience these things first-hand. As a new staffer, we may
       decide not to throw you in at the deep end, of course, but we all share
@@ -43,6 +43,19 @@ wrong for the majority of cases.
   against you, but it's worth considering that there may be a good reason for not
   sharing your view. It's nothing personal, but it's something that can and does
   happen.
+
+Of course, there are some positive sides to being a staff member as well.
+
+* You get a hand in planning and the direction of the network - As a staff member,
+  your ideas get heard first, directly in the places we would discuss them, and you
+  can get instant feedback on them.
+* The Archives prides itself in not being generic and trying to provide a personal
+  experience for every regular member. This extends to staff members as well - we
+  do try to look out for each other when appropriate. If there's a problem, raise
+  it with another staffer. We'll be happy to help.
+* You get to contribute to the community in many direct and active ways. You need
+  complain about the griefers and spammers no longer! Simply kick/ban them yourself
+  in accordance with [the rules](https://archivesmc.com/rules).
 
 Still here? Have I not scared you away yet? Excellent, keep on reading!
 
